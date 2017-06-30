@@ -2,7 +2,7 @@ install.packages("ggplot2")
 library(ggplot2)
 #Starting NFL data profiling now
 #Read in data
-nfl <- read.csv("https://www.dropbox.com/s/uxon9i37jl0qebi/nfl.csv?dl=0")
+nfl <- read.csv("https://drive.google.com/uc?export=download&id=0BwNeFVkFjEYSSlQ0N1M1SFlHd3c")
 #View it
 View(nfl)
 #Generate summary statistics
